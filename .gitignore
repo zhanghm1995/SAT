@@ -1,0 +1,5 @@
+__pycache__/
+referit3d/external_tools/pointnet2/build/
+referit3d/external_tools/pointnet2/dist/
+referit3d/external_tools/pointnet2/pointnet2.egg-info/
+referit3d.egg-info/
